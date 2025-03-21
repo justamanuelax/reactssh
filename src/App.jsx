@@ -1,11 +1,11 @@
-import SpaceExplorer from "./RogueGame"
+import SpaceInvaders from "./RogueGame"
 
 function App() {
 
   return (
     <>
     {/* Learning useState and making a game entirely for github using usestate */}
-    <SpaceExplorer/>
+    <SpaceInvaders/>
     </>
   )
 }
